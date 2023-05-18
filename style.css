@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+* {
+    padding: 0px;
+    margin: 10px;
+}
+
+table {
+    margin: 30px;
+    border: 2px solid #fec107;
+    border-collapse: collapse;
+    font-family: roboto mono;
+}
+
+#table1 td, th {
+    border: 1px solid #fec107;
+    padding: 10px;
+    width: 130px;
+}
+
+#table1 thead {
+    background: #fec107;
+    color:black;
+    font-weight: bold !important;
+}
+
+#surname {
+    background: #e5ae30;
+}
+
+#table1 tbody th {
+    background: #382c6e;
+    color: white;
+    font-weight: lighter !important;
+}
+
+#ligher-text
+{
+    font-weight: lighter;
+}
